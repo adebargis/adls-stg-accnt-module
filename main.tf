@@ -3,7 +3,7 @@ terraform {
         organization = "ALEXANDREDEBARGIS-training"
 
         workspaces {
-            name = "adls-stg-accnt-module"
+            name = "test"
         }
     }
     required_providers {
